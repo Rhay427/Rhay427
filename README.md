@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhay427
+- 👋 Hi, I’m Rhay Sabaria
 - 👀 I’m interested in creating applications that will benefit everyone in our society
 - 🌱 I’m currently learning Frameworks such as React,Next,Vue, etc..
 - 📫 Email me at rhayvincent.sabaria@gmail.com or contact me at (+63)9453164432
